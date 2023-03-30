@@ -8,18 +8,18 @@ To use this program, simply download the files or clone the repository to your l
 
 To perform calculations, simply click on the buttons of the calculator or use your keyboard. The calculator supports the following operations:
 
-    Addition: Click the + button or use the + key on your keyboard.
-    Subtraction: Click the - button or use the - key on your keyboard.
-    Multiplication: Click the x button or use the * key on your keyboard.
-    Division: Click the / button or use the / key on your keyboard.
-    Clear: Click the C button or use the Escape key on your keyboard.
+    . Addition: Click the + button or use the + key on your keyboard.
+    . Subtraction: Click the - button or use the - key on your keyboard.
+    . Multiplication: Click the x button or use the * key on your keyboard.
+    . Division: Click the / button or use the / key on your keyboard.
+    . Clear: Click the C button or use the Escape key on your keyboard.
 
 To enter numbers, use the buttons 0 to 9. You can also use your keyboard to enter numbers.
 ## Built With
 
-    JavaScript - Programming language used to build the calculator.
-    HTML - Markup language used to structure the calculator.
-    CSS - Styling language used to design the calculator.
+    . JavaScript - Programming language used to build the calculator.
+    . HTML - Markup language used to structure the calculator.
+    . CSS - Styling language used to design the calculator.
 
 ## Authors
 
