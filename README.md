@@ -1,3 +1,7 @@
+#Live Site Link
+https://suhanar.github.io/Calculator-VanillaJS/
+
+
 # Calculator Program in JavaScript, CSS, HTML
 
 This is a simple calculator program written in JavaScript, CSS, and HTML. It provides basic arithmetic operations like addition, subtraction, multiplication, and division.
@@ -12,7 +16,7 @@ To perform calculations, simply click on the buttons of the calculator or use yo
     . Subtraction: Click the - button or use the - key on your keyboard.
     . Multiplication: Click the x button or use the * key on your keyboard.
     . Division: Click the / button or use the / key on your keyboard.
-    . Clear: Click the C button or use the Escape key on your keyboard.
+    . Clear: Click the Clear button.
 
 To enter numbers, use the buttons 0 to 9. You can also use your keyboard to enter numbers.
 ## Built With
